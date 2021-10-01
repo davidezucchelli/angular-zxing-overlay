@@ -1,0 +1,14 @@
+:host zxing-scanner ::ng-deep video {
+    height: 15rem;
+    width: 100%;
+    object-fit: contain;
+}
+
+video {
+    height: 15rem !important;
+}
+
+:host {
+    width: 100%;
+    height: 100%;
+}
